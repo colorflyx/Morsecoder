@@ -1,6 +1,6 @@
 # Tiny Tapeout project information
 project: MorseCode
-  title:        "MorseCode"      # Project title
+  title:        "MorseCoder"      # Project title
   author:       "Astrid Sofia Xenia"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "Morse code encrypter"      # One line description of what your project does
