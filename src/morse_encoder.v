@@ -6,7 +6,7 @@ module morse_encoder (
 
     always @(*) begin
         case (char_in)
-            "A": begin morse = 8'b01;      length = 2; end // .-
+            "A","a": begin morse = 8'b01;      length = 2; end // .-
             "B": begin morse = 8'b1000;    length = 4; end // -...
             "C": begin morse = 8'b1010;    length = 4; end // -.-.
             "D": begin morse = 8'b100;     length = 3; end // -..
