@@ -15,7 +15,7 @@ project:
 # The pinout of your project. Leave unused pins blank.
 pinout:
   # Inputs
-  ui[0]: ""
+  ui[0]: "a0"
   ui[1]: ""
   ui[2]: ""
   ui[3]: ""
